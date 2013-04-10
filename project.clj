@@ -1,4 +1,4 @@
-(defproject hylo-sim "0.1.0-SNAPSHOT"
+(defproject currency-sim "0.1.0-SNAPSHOT"
   :description "Simulation of hylo behavior"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
